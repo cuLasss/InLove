@@ -1,6 +1,6 @@
 # 💖 IN LOVE — Sistema de Gestão e Dashboard para Loja de Moda Íntima  
 
-![Status](https://img.shields.io/badge/status-em%20produção-success)
+![Status](https://img.shields.io/badge/status-Concluido-success)
 ![Platform](https://img.shields.io/badge/platform-Lovable%20%2B%20Supabase-blue)
 ![Author](https://img.shields.io/badge/dev-Lucas%20Martin-green)
 
