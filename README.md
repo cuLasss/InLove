@@ -80,11 +80,9 @@ O sistema **revolucionou a gestão da loja**, centralizando o que antes era feit
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Dev
 
 **Lucas Martin**  
 [GitHub](https://github.com/cuLasss) • [LinkedIn](https://www.linkedin.com/in/lucas-m4rtin/)  
 
 ---
-
-> 💖 Projeto autoral desenvolvido parcialmente por Lucas Martin — uma solução completa de automação comercial e gestão integrada para lojas de moda íntima.
