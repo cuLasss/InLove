@@ -80,7 +80,7 @@ O sistema **revolucionou a gestão da loja**, centralizando o que antes era feit
 
 ---
 
-## 👨‍💻 Dev
+## 👨‍💻 Developer
 
 **Lucas Martin**  
 [GitHub](https://github.com/cuLasss) • [LinkedIn](https://www.linkedin.com/in/lucas-m4rtin/)  
